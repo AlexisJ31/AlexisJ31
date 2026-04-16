@@ -20,5 +20,3 @@
 
 ---
 
-### 💡 Próximos pasos:
-Cuando tengas proyectos o estadísticas para mostrar, este archivo puede evolucionar contigo. 😊
